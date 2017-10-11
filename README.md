@@ -6,6 +6,7 @@
 *GluttonousSnake* 是一款C++编写的EasyX绘图库范例游戏程序，收录在EasyX绘图库官网。
 
 旧版地址：<http://www.easyx.cn/samples/View.aspx?id=58>
+
 新版地址：<http://www.codebus.cn/contributor/post/greedy-snake-by-qymb>
 
 编译环境
